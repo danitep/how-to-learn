@@ -31,6 +31,9 @@
   left: 64px
 }
 
+.header_title{
+  width: 730px;
+}
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;

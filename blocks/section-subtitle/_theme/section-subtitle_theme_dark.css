@@ -1,4 +1,5 @@
 .section-subtitle_theme_dark{
     margin: 20px auto 0 auto;
     color: white;
+    z-index: 1;
   }
